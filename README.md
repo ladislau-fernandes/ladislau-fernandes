@@ -1,5 +1,5 @@
-## Olá sou Ladislau Fernandes Marques Nagy. ✅
-# Cursando Analise e Desenvolvimento de Sistemas.
+# Olá sou Ladislau Fernandes Marques Nagy. ✅
+## Cursando Analise e Desenvolvimento de Sistemas.
 [![Blog](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://ladislau-fernandes.github.io/)
 
 ![ladislau-fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=ladislau-fernandes&show_icons=true&theme=dark)
